@@ -118,7 +118,7 @@ Data is retrieved using the Python library:
 ## 🔮 Future Enhancements
 
 * Player-level analysis (performance at Home vs Away)
-* Advanced metrics (efficiency, 3 point shooting  vs 2 point Shooting)
+* Advanced metrics (efficiency, 3-point vs 2-point shooting analysis)
 * Team comparison dashboards
 * Predictive analytics (win probability)
 
