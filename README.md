@@ -6,6 +6,8 @@ This project is an interactive Power BI dashboard that analyzes **NBA game perfo
 
 The dashboard provides statistical insights into how players are performing, helping identify patterns in scoring, outcomes, and overall performance.
 
+**This dashboard is a one stop shop for analyzing player's and team's current form and stats with minimal clicks.**
+
 ---
 
 ## 🎯 Objective
@@ -97,8 +99,8 @@ Data is retrieved using the Python library:
 2. Open in Power BI Desktop
 3. Explore:
 
-   * Filters (team, date)
-   * Win/Loss breakdown
+   * Filters (team, player)
+   * Player's performance
    * Game-level insights
 
 ---
@@ -121,8 +123,8 @@ Data is retrieved using the Python library:
 
 ## 📬 Contact
 
-* LinkedIn: [Your LinkedIn]
-* GitHub: [Your GitHub]
+* LinkedIn: (https://www.linkedin.com/in/prajwal-v-6a782680/)
+* GitHub: (https://github.com/Praj7575/)
 
 ---
 
