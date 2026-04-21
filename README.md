@@ -12,7 +12,7 @@ The dashboard provides statistical insights into how players are performing, hel
 
 ## 🎯 Objective
 
-* Analyze **player performance** across NBA
+* Analyze **players' performance** across NBA
 * Compare **wins vs losses** using key metrics
 * Understand scoring trends across matches
 * Provide a visual summary of team performance
