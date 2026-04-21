@@ -24,6 +24,8 @@ The dashboard provides statistical insights into how players are performing, hel
 Data is retrieved using the Python library:
 
 * nba_api
+* nba website (selenium web scraping)
+* excel files
 
 ### Key Fields Used:
 
@@ -119,7 +121,7 @@ Data is retrieved using the Python library:
 
 * Player-level analysis (performance at Home vs Away)
 * Advanced metrics (efficiency, 3-point vs 2-point shooting analysis)
-* Team comparison dashboards
+* Implement schedule refresh to get latest data
 * Predictive analytics (win probability)
 
 ---
