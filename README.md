@@ -88,8 +88,11 @@ Data is retrieved using the Python library:
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here)*
-![Dashboard](images/nba_dashboard.png)
+![Live Scores] (https://github.com/user-attachments/assets/856d846d-6bd2-4344-a124-93ea514a73cb)
+
+![Player Stats] (https://github.com/user-attachments/assets/aba14d4f-4856-4392-a1ff-ac677782a290)
+
+![Team Stats] (https://github.com/user-attachments/assets/57248777-3562-4b6c-9c17-567335586f51)
 
 ---
 
@@ -114,8 +117,8 @@ Data is retrieved using the Python library:
 
 ## 🔮 Future Enhancements
 
-* Player-level analysis (points, assists, rebounds)
-* Advanced metrics (efficiency, shooting %)
+* Player-level analysis (performance at Home vs Away)
+* Advanced metrics (efficiency, 3 point shooting  vs 2 point Shooting)
 * Team comparison dashboards
 * Predictive analytics (win probability)
 
