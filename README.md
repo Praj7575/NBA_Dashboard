@@ -102,7 +102,7 @@ Data is retrieved using the Python library:
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
-3. Update source location of provided excel files
+3. Update source location of provided csv files
 4. Explore:
 
    * Filters (team, player)
